@@ -1,0 +1,6 @@
+{
+  "name": "PDF Translator",
+  "description": "An expert PDF translator that splits documents into manageable chunks and translates them using Gemini models with custom languages, tones, and terminology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
